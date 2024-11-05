@@ -1,0 +1,121 @@
+export const artistData = [
+    {
+        id: 1,
+        name: 'Xeon Diversity',
+        role: 'Composer',
+        about: 'Future Bass',
+        imgSrc: '/artist/xeondiversity.png',
+    },
+    {
+        id: 2,
+        name: 'GoGoN-',
+        role: 'Composer',
+        about: 'suka dangdut tapi gak pernah bikin dangdut :"',
+        imgSrc: '/artist/gogon.png',
+    },
+    {
+        id: 3,
+        name: 'Dispel',
+        role: 'Composer',
+        about: 'Fuses live instruments such as orchestras and folk as one song.',
+        imgSrc: '/artist/dispel.png',
+    },
+    {
+        id: 4,
+        name: 'RESiTY',
+        role: 'Composer',
+        about: 'Future Bass',
+        imgSrc: '/img/luminoz.png',
+    },
+    {
+        id: 5,
+        name: 'Rakakun-',
+        role: 'Composer',
+        about: 'Future Bass',
+        imgSrc: '/img/luminoz.png',
+    },
+    {
+        id: 6,
+        name: 'SM-MEGAtive',
+        role: 'Composer',
+        about: 'Future Bass',
+        imgSrc: '/img/luminoz.png',
+    },
+    {
+        id: 7,
+        name: 'Altair Aquila',
+        role: 'Composer',
+        about: 'VTuber',
+        imgSrc: '/img/luminoz.png',
+    },
+    {
+        id: 8,
+        name: 'sarochi',
+        role: 'Composer',
+        about: 'Future Bass',
+        imgSrc: '/img/luminoz.png',
+    },
+    {
+        id: 9,
+        name: 'Scarlet',
+        role: 'Composer',
+        about: 'Future Bass',
+        imgSrc: '/img/luminoz.png',
+    },
+    {
+        id: 10,
+        name: 'Mariela Riona',
+        role: 'Vocalist',
+        about: 'VTuber',
+        imgSrc: '/img/luminoz.png',
+    },
+    {
+        id: 11,
+        name: 'Evara Lyrissha',
+        role: 'Vocalist',
+        about: 'VTuber',
+        imgSrc: '/img/luminoz.png',
+    },
+    {
+        id: 12,
+        name: 'Saryulis',
+        role: 'Composer',
+        about: 'Future Bass',
+        imgSrc: '/img/luminoz.png',
+    },
+    {
+        id: 13,
+        name: 'KURORYU',
+        role: 'Composer',
+        about: 'a weeb who like making music, just a simple guy make a simple track, focused on genre like Hardcore/Dubstep/Drum n Bass/etc.',
+        imgSrc: '/artist/kuroryu.png',
+    },
+];
+
+export const albumData = [
+    {
+        id: 1,
+        name: 'Genesis',
+        ytLink: 'https://youtube.com/playlist?list=PLg0Y94-2Ml5i9tW1YKNx83ln9VaOHHDxQ&si=N1HjMTQrovYce3p_',
+    },
+    {
+        id: 2,
+        name: 'Restoration',
+        ytLink: 'https://youtube.com/playlist?list=PLg0Y94-2Ml5jr0JtDmcDGxEfTTQ1bb02n&si=OkaygG_Y6WwFZud1',
+    },
+    {
+        id: 3,
+        name: 'Cursed of The Origin',
+        ytLink: 'https://youtube.com/playlist?list=PLg0Y94-2Ml5gffQAuWt4LgHjw2uuLCPuw&si=g9dMu7Ffl3JogDvp',
+    },
+    {
+        id: 4,
+        name: 'Collaboration Works',
+        ytLink: 'https://youtube.com/playlist?list=PLg0Y94-2Ml5j5q6UpgSUkE5X4FN-oNYSA&si=X2HWk-XHBjQTZA6G',
+    },
+    {
+        id: 5,
+        name: 'Release',
+        ytLink: 'https://youtube.com/playlist?list=PLg0Y94-2Ml5gedj8GldFXM67kI3nAqcWj&si=xnc7BIceLHGPgA0l',
+    },
+]
